@@ -8,11 +8,4 @@ lcd = i;
         }
 printf("LCD = %d", (a * b) / lcd);
 return 0;
-
-
-
-
-
-
-
 }
